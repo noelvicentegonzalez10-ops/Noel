@@ -1,0 +1,87 @@
+{
+ "titulo": "Perros grandes",
+ "escenas": [
+  {
+   "duracion": 4.0,
+   "fondo": [
+    [
+     120,
+     140,
+     170
+    ],
+    [
+     70,
+     80,
+     110
+    ]
+   ],
+   "perro": {
+    "expr": "sad"
+   },
+   "texto": "Soy grande y fuerte… ¡y mi collar parece de juguete!"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     90,
+     75,
+     40
+    ],
+    [
+     40,
+     30,
+     15
+    ]
+   ],
+   "perro": {
+    "expr": "cool",
+    "shades": true
+   },
+   "texto": "Cuero de 4 mm hecho a mano y detalles dorados.",
+   "imagen": "maximus.png",
+   "etiqueta": "Collar Maximus · 101 €"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     200,
+     90,
+     80
+    ],
+    [
+     120,
+     40,
+     40
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "¿Más atrevido? Pinchos roscados que no se sueltan.",
+   "imagen": "danger.png",
+   "etiqueta": "Collar Danger · 54,53 €"
+  },
+  {
+   "duracion": 4.6,
+   "fondo": [
+    [
+     215,
+     134,
+     80
+    ],
+    [
+     160,
+     80,
+     40
+    ]
+   ],
+   "perro": {
+    "expr": "wink"
+   },
+   "texto": "Collares a tu altura en Mimopata. ¡-10 % con BIENVENIDA10!",
+   "final": true
+  }
+ ]
+}

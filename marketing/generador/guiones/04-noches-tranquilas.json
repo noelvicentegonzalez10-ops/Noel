@@ -1,0 +1,86 @@
+{
+ "titulo": "Noches tranquilas",
+ "escenas": [
+  {
+   "duracion": 4.0,
+   "fondo": [
+    [
+     60,
+     50,
+     110
+    ],
+    [
+     25,
+     20,
+     60
+    ]
+   ],
+   "perro": {
+    "expr": "sad"
+   },
+   "texto": "Tormentas, petardos, viajes… ¡qué nervios!"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     200,
+     190,
+     240
+    ],
+    [
+     150,
+     130,
+     210
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "Snacks Sweet Dreams con manzanilla, tila y miel.",
+   "imagen": "sweetdreams.png",
+   "etiqueta": "Sweet Dreams · 19,30 €"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     250,
+     214,
+     165
+    ],
+    [
+     235,
+     160,
+     100
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "¿No sabes cuál elegir? ¡Pruébalos todos!",
+   "imagen": "pack_dog.png",
+   "etiqueta": "Pack Degustación · 23,17 €"
+  },
+  {
+   "duracion": 4.6,
+   "fondo": [
+    [
+     215,
+     134,
+     80
+    ],
+    [
+     160,
+     80,
+     40
+    ]
+   ],
+   "perro": {
+    "expr": "wink"
+   },
+   "texto": "Dulces sueños en Mimopata. ¡-10 % con BIENVENIDA10!",
+   "final": true
+  }
+ ]
+}

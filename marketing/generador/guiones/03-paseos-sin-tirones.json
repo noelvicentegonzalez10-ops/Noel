@@ -1,0 +1,86 @@
+{
+ "titulo": "Paseos sin tirones",
+ "escenas": [
+  {
+   "duracion": 4.0,
+   "fondo": [
+    [
+     120,
+     140,
+     170
+    ],
+    [
+     70,
+     80,
+     110
+    ]
+   ],
+   "perro": {
+    "expr": "sad"
+   },
+   "texto": "Mi humano dice que tiro mucho de la correa… ¡y tiene razón!"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     170,
+     200,
+     150
+    ],
+    [
+     110,
+     140,
+     90
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "Arnés con asa y 3 anillas: paseos tranquilos para los dos.",
+   "imagen": "harness_bully.png",
+   "etiqueta": "Arnés GripPro · 110 €"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     250,
+     214,
+     165
+    ],
+    [
+     235,
+     160,
+     100
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "¿Prefieres collar? Este lleva asa para cruces y tráfico.",
+   "imagen": "grippro_collar.png",
+   "etiqueta": "Collar GripPro con asa · 45,03 €"
+  },
+  {
+   "duracion": 4.6,
+   "fondo": [
+    [
+     215,
+     134,
+     80
+    ],
+    [
+     160,
+     80,
+     40
+    ]
+   ],
+   "perro": {
+    "expr": "wink"
+   },
+   "texto": "Paseos sin tirones en Mimopata. ¡-10 % con BIENVENIDA10!",
+   "final": true
+  }
+ ]
+}

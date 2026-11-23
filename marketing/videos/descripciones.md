@@ -1,0 +1,93 @@
+# Vídeos de Pata – descripciones y frases para la voz
+
+Todos los vídeos están sin voz y sin música. Antes de publicar:
+1. En TikTok o CapCut: **Texto → Texto a voz** con cada frase de la tabla (o graba tu voz).
+2. Añade un sonido en tendencia al 15 % de volumen.
+3. Publica entre las 19:00 y las 22:00.
+
+---
+
+## pata-03-paseos-sin-tirones.mp4 (17 s)
+
+| Escena | Frase para la voz |
+|---|---|
+| 0–4 s | Mi humano dice que tiro mucho de la correa… ¡y tiene razón! |
+| 4–8 s | Arnés con asa y tres anillas: paseos tranquilos para los dos. |
+| 8–13 s | ¿Prefieres collar? Este lleva asa para cruces y tráfico. |
+| 13–17 s | Paseos sin tirones en Mimopata. ¡Diez por ciento con BIENVENIDA10! |
+
+**Descripción:**
+> ¿Tu perro también te saca a pasear a ti? 😅🐕 Arnés GripPro con asa y collar con asa para paseos sin tirones. -10 % con BIENVENIDA10 · link en la bio
+> #perros #paseoconperros #perrosgrandes #adiestramientocanino #perrosdeinstagram #mascotas #españa
+
+---
+
+## pata-04-noches-tranquilas.mp4 (17 s)
+
+| Escena | Frase para la voz |
+|---|---|
+| 0–4 s | Tormentas, petardos, viajes… ¡qué nervios! |
+| 4–8 s | Snacks Sweet Dreams con manzanilla, tila y miel. |
+| 8–13 s | ¿No sabes cuál elegir? ¡Pruébalos todos! |
+| 13–17 s | Dulces sueños en Mimopata. ¡Diez por ciento con BIENVENIDA10! |
+
+**Descripción:**
+> Para los perretes que lo pasan mal con los ruidos 🌙🐶 Snacks naturales con manzanilla, tila y miel. -10 % con BIENVENIDA10 · link en la bio
+> #perros #perrosnerviosos #petardos #snacksparaperros #naturaleza #perrosfelices #mascotas #españa
+
+*Ideal para publicar antes de Nochevieja, verbenas y fiestas con petardos.*
+
+---
+
+## pata-05-perros-grandes.mp4 (17 s)
+
+| Escena | Frase para la voz |
+|---|---|
+| 0–4 s | Soy grande y fuerte… ¡y mi collar parece de juguete! |
+| 4–8 s | Cuero de cuatro milímetros hecho a mano y detalles dorados. |
+| 8–13 s | ¿Más atrevido? Pinchos roscados que no se sueltan. |
+| 13–17 s | Collares a tu altura en Mimopata. ¡Diez por ciento con BIENVENIDA10! |
+
+**Descripción:**
+> Un perro grande necesita un collar a su altura 💪🐕 Cuero hecho a mano en Europa. -10 % con BIENVENIDA10 · link en la bio
+> #canecorso #rottweiler #americanbully #presacanario #perrosgrandes #collaresdecuero #perros #españa
+
+---
+
+## pata-06-brillo-propio.mp4 (17 s)
+
+| Escena | Frase para la voz |
+|---|---|
+| 0–4 s | Todos los perros del parque van igual… |
+| 4–8 s | Yo voy con brillantes. Y se nota. |
+| 8–13 s | Con correa a juego, el look completo. |
+| 13–17 s | Brilla en el parque con Mimopata. ¡Diez por ciento con BIENVENIDA10! |
+
+**Descripción:**
+> Para los perretes con estilo ✨🐶 Collar Bijou de cuero con brillantes y correa a juego. -10 % con BIENVENIDA10 · link en la bio
+> #perros #perrosconestilo #bulldogfrances #carlino #perrosdeinstagram #moda #mascotas #españa
+
+---
+
+## Calendario sugerido
+
+| Día | Vídeo |
+|---|---|
+| Martes | pata-03-paseos-sin-tirones |
+| Miércoles | pata-04-noches-tranquilas |
+| Jueves | mimopata_tiktok_2_pata (el primero de Pata) |
+| Viernes | pata-05-perros-grandes |
+| Sábado | pata-06-brillo-propio |
+| Domingo | mimopata_tiktok_1 (fotos de producto) |
+
+Cada mañana, el informe de las 8:40 te propone qué publicar y te prepara un vídeo nuevo.
+
+---
+
+## Cómo crear más vídeos (para el informe automático o a mano)
+
+```
+python3 marketing/generador/pata.py marketing/generador/guiones/03-paseos-sin-tirones.json salida.mp4
+```
+
+Cada guion es un JSON con 3–4 escenas: `texto`, `fondo` (dos colores RGB), `perro` (`expr`: sad/happy/cool/wink, `shades`, `mud`), y opcionalmente `imagen` (de `marketing/generador/assets/`) y `etiqueta` (producto · precio). La última escena lleva `"final": true`.

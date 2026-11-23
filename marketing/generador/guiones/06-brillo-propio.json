@@ -1,0 +1,87 @@
+{
+ "titulo": "Brillo propio",
+ "escenas": [
+  {
+   "duracion": 4.0,
+   "fondo": [
+    [
+     160,
+     160,
+     170
+    ],
+    [
+     110,
+     110,
+     120
+    ]
+   ],
+   "perro": {
+    "expr": "sad"
+   },
+   "texto": "Todos los perros del parque van igual…"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     230,
+     170,
+     200
+    ],
+    [
+     170,
+     90,
+     140
+    ]
+   ],
+   "perro": {
+    "expr": "cool",
+    "shades": true
+   },
+   "texto": "Yo voy con brillantes. Y se nota.",
+   "imagen": "bijou_dog.png",
+   "etiqueta": "Collar Bijou · 77,98 €"
+  },
+  {
+   "duracion": 4.4,
+   "fondo": [
+    [
+     250,
+     214,
+     165
+    ],
+    [
+     235,
+     160,
+     100
+    ]
+   ],
+   "perro": {
+    "expr": "happy"
+   },
+   "texto": "Con correa a juego, el look completo.",
+   "imagen": "bijou.png",
+   "etiqueta": "Set collar + correa · 129,03 €"
+  },
+  {
+   "duracion": 4.6,
+   "fondo": [
+    [
+     215,
+     134,
+     80
+    ],
+    [
+     160,
+     80,
+     40
+    ]
+   ],
+   "perro": {
+    "expr": "wink"
+   },
+   "texto": "Brilla en el parque con Mimopata. ¡-10 % con BIENVENIDA10!",
+   "final": true
+  }
+ ]
+}
