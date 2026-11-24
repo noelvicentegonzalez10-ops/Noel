@@ -91,3 +91,24 @@ python3 marketing/generador/pata.py marketing/generador/guiones/03-paseos-sin-ti
 ```
 
 Cada guion es un JSON con 3–4 escenas: `texto`, `fondo` (dos colores RGB), `perro` (`expr`: sad/happy/cool/wink, `shades`, `mud`), y opcionalmente `imagen` (de `marketing/generador/assets/`) y `etiqueta` (producto · precio). La última escena lleva `"final": true`.
+
+---
+
+## pata-07-desde-cuando-hablas.mp4 (28 s) – historia con el dueño
+
+Usa **dos voces distintas** de "Texto a voz" en TikTok/CapCut: una aguda o graciosa para **Pata** y otra normal para el **dueño**.
+
+| Momento | Quién | Frase para la voz |
+|---|---|---|
+| 0–3 s | Pata | Oye, humano… tenemos que hablar. |
+| 3–5 s | Dueño | ¿¡Desde cuándo hablas!? |
+| 5–9 s | Pata | Desde que me das siempre las mismas galletas. Necesito variedad: ¡ocho snacks naturales! |
+| 9–13 s | Pata | Está en Mimopata. Tú solo dale al botón. |
+| 13–17 s | Pata | ¡Ding dong! ¡Ha llegado! |
+| 17–20 s | Pata | Ñam… ¡ñam! Este de ternera es mi favorito. |
+| 20–23 s | Dueño | Vale… lo admito: tienes buen gusto. |
+| 23–28 s | Pata | Pack Degustación en Mimopata. ¡Díselo a tu humano! |
+
+**Descripción:**
+> Mi perro habló por primera vez… y fue para pedirme snacks 😳🐶 ¿El tuyo qué te pediría? 👇 Pack Degustación Floopp en Mimopata · -10 % con BIENVENIDA10 · link en la bio
+> #perros #perrosgraciosos #siminperrohablara #humor #snacksparaperros #perrosdeinstagram #mascotas #españa
