@@ -129,3 +129,9 @@ Misma historia que el vídeo 07, pero con **fotos reales** (labrador, chica con 
 | 16–20 s | Pata | Ñam… ¡ñam! El de ternera es mi favorito. |
 | 20–22 s | Dueña | Vale… lo admito: tienes buen gusto. |
 | 22–27 s | Pata | Pack Degustación en Mimopata. ¡Díselo a tu humano! |
+
+---
+
+## pata-09-desde-cuando-hablas-animado.mp4 (28 s) – versión animada con personajes ⭐
+
+Misma historia, con **Pata** y su **dueño** animados en un salón, un escritorio con tu tienda real en el portátil y la puerta de casa. Usa las frases de la tabla del vídeo 07, con una voz graciosa para Pata y otra normal para el dueño.
