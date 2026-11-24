@@ -112,3 +112,20 @@ Usa **dos voces distintas** de "Texto a voz" en TikTok/CapCut: una aguda o graci
 **Descripción:**
 > Mi perro habló por primera vez… y fue para pedirme snacks 😳🐶 ¿El tuyo qué te pediría? 👇 Pack Degustación Floopp en Mimopata · -10 % con BIENVENIDA10 · link en la bio
 > #perros #perrosgraciosos #siminperrohablara #humor #snacksparaperros #perrosdeinstagram #mascotas #españa
+
+---
+
+## pata-08-desde-cuando-hablas-realista.mp4 (27 s) – versión medio realista ⭐
+
+Misma historia que el vídeo 07, pero con **fotos reales** (labrador, chica con su perro, bolsas Floopp), movimientos de cámara, zoom dramático, la **tienda real en un móvil** y una **notificación de "Tu pedido ha llegado"**. Usa las mismas frases y la misma descripción que el 07, con dos voces distintas (Pata y el dueño o la dueña).
+
+| Momento | Quién | Frase para la voz |
+|---|---|---|
+| 0–3 s | Pata | Oye, humano… tenemos que hablar. |
+| 3–5 s | Dueña | ¿¡Desde cuándo hablas!? |
+| 5–9 s | Pata | Desde que me das siempre las mismas galletas. Necesito variedad: ¡ocho snacks naturales! |
+| 9–13 s | Pata | Está en Mimopata. Tú solo dale al botón. |
+| 13–16 s | — | (sonido de notificación / timbre) |
+| 16–20 s | Pata | Ñam… ¡ñam! El de ternera es mi favorito. |
+| 20–22 s | Dueña | Vale… lo admito: tienes buen gusto. |
+| 22–27 s | Pata | Pack Degustación en Mimopata. ¡Díselo a tu humano! |
