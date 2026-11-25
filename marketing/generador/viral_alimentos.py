@@ -82,7 +82,7 @@ def s_item(i,t,T):
     k=ease(t/0.35); bounce=1+0.06*math.sin(min(1,t/0.35)*math.pi)
     f=font(190); s=str(i+1); tw=d.textlength(s,font=f); d.text(((W-tw)/2,110),s,font=f,fill=RED,stroke_width=12,stroke_fill=DARK)
     caption(b,name,340,t*1.5,size=92,color=WHITE)
-    icon(d,W/2,900,1.25*k*bounce if k>0 else 0.01)
+    icon(d,W/2,900,max(0.08,1.25*k*bounce))
     if t>0.45: prohibido(d,W/2,900,330,ease((t-0.45)/0.25))
     if t>0.7: caption(b,why,1320,(t-0.7)*1.6,size=62)
     dog_corner(b,T,"sad" if i%2 else "shock",900,1860,0.3)
