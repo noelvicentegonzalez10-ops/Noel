@@ -14,7 +14,7 @@ def _tone(f,n,kind="saw",a=0.005,r=0.3):
 def midi(m): return 440*2**((m-69)/12)
 
 def musica(dur,out,tonalidad=0,bpm=112,semilla=0):
-    rng=np.random.default_rng(semilla); N=int(dur*SR); mix=np.zeros(N+SR)
+    rng=np.random.default_rng(semilla); N=int(dur*SR); mix=np.zeros(N+8*SR)
     beat=60/bpm; step=beat/2
     prog=[[0,4,7],[7,11,14],[9,12,16],[5,9,12]]  # I V vi IV
     root=57+tonalidad

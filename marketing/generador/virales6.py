@@ -162,6 +162,9 @@ VIDEOS={1:V1,2:V2,3:V3,4:V4,5:V5,6:V6}
 def render(n):
     fn,durs,name,key=VIDEOS[n]; out=os.path.join(OUTDIR,name+".mp4"); tmp=out+".frames"; os.makedirs(tmp,exist_ok=True)
     total=sum(durs); N=0; T=0.0; prev=None; X=4
+    expected=sum(int(d*FPS) for d in durs)
+    if len(os.listdir(tmp))==expected:
+        N=expected; durs=[]  # fotogramas ya generados: solo falta la música
     for i,dur in enumerate(durs):
         for k in range(int(dur*FPS)):
             t=k/FPS; T+=1/FPS; b=fn(i,t,T,dur); progress(b,T/total); tag(b)
